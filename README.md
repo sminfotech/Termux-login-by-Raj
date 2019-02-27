@@ -1,4 +1,4 @@
-#JaiMataDi
+#Jaimatadi
 #Rajtechhub-Abhishekmishra
 
  [+] Information :
@@ -14,7 +14,7 @@
    that .in futere i will make this script more secure/
    
 
-   Termux-Login- by Raj
+   Termux-Login-by Raj
 
 [+] warning :- if anybody want to modify this script and want to 
     upload on own github then you guys make sure to give my original github link on your README.md as a credit..okk
