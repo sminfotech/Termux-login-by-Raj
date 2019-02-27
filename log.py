@@ -6,11 +6,11 @@ def menu():
       while True:
            print("")
            os.system("clear")
-           print('\033[1;36;40m<─────────────── v.1.2 By RajTechHub ───────────────>')
+           print('\033[1;36;40m<───────────────RajTechHub ───────────────>')
            print('')
            os.system('date | lolcat')
            print("\033[1;93m")
-           print(" \033[1;92m  786 => Jai-Mata-DI')")
+           print(" \033[1;92m  OM => Jai-Mata-DI')")
            print("\033[1;93m")
            print("  <───────[ RajTechHub ]───────>")
            print("")
@@ -19,7 +19,7 @@ def menu():
                 print("")
                 e = getpass('\033[1;92mPassword \033[1;93m: ')
                 print ("")
-                if x=="mujeeb" and e=="12345":
+                if x=="RajTech" and e=="12345":
                    print('wait...')
                    time.sleep(1)
                    os.system('clear')
