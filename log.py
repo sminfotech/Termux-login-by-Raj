@@ -10,16 +10,16 @@ def menu():
            print('')
            os.system('date | lolcat')
            print("\033[1;93m")
-           print(" \033[1;92m  OM => Jai-Mata-DI')")
+           print(" \033[1;92m  OM => ('Jai-Mata-DI')")
            print("\033[1;93m")
-           print("  <───────[ RajTechHub ]───────>")
+           print("  <───────[ AbhishekMishra ]───────>")
            print("")
            try:
                 x = str(input('\033[1;92mUsername \033[1;93m: '))
                 print("")
                 e = getpass('\033[1;92mPassword \033[1;93m: ')
                 print ("")
-                if x=="RajTech" and e=="12345":
+                if x=="Rajtech" and e=="12345":
                    print('wait...')
                    time.sleep(1)
                    os.system('clear')
